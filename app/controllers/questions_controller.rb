@@ -1,3 +1,5 @@
+# QUestion controller
+
 class QuestionsController < ApplicationController
   def ask
   end
